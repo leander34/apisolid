@@ -1,0 +1,12 @@
+git config --global core.autocrlf input
+
+
+docker ps
+docker ps -a
+docker start "nome-do-container"
+docker stop "nome-do-container"
+docker rm "nome-do-container"
+docker compose up -d
+docker compose start
+docker compose stop
+docker compose down
